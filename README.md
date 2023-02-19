@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roshan-Bhagchandani
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me roshanbhagchandani02@gmail.com
 
